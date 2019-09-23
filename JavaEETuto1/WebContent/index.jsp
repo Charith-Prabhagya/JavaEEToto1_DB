@@ -24,9 +24,12 @@ Working JSP Files
 -->
  
 <form action="ProcessInfo" method="post">
-<label>Name : </label>
-<input type="text" name="name"><br>
-
+<label>First Name : </label>
+<input type="text" name="fname"><br>
+<label>Last Name : </label>
+<input type="text" name="lname"><br>
+<label>Phone : </label>
+<input type="text" name="phone"><br>
 <input type="submit" value="Send">
 </form>
  
